@@ -1,3 +1,3 @@
-altair
+scikit-learn
 pandas
 streamlit
